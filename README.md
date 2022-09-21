@@ -3,7 +3,7 @@
 
 
 Iniciante em programação Web <br>
-Em processo de transição de carreira!<br>
+Formado em Processos Gerenciais e no processo de transição de carreira!<br>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guigonca&show_icons=true&theme=github_dark)
