@@ -1,9 +1,8 @@
 <h2>Olá, eu sou o Guilherme Gonçalves 🖖🏻</h2>
 
-
 Iniciante em programação Web <br>
 Formado em Processos Gerenciais e no processo de transição de carreira!
-##
+## 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-pgx/)
 <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5521986004671" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
@@ -18,7 +17,8 @@ Formado em Processos Gerenciais e no processo de transição de carreira!
   <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   </div>
- 
- ##
-![7zfZ](https://user-images.githubusercontent.com/86698354/191873386-09b1018f-01a6-4ce8-ba08-1705c6fe6d51.gif)
+  
+##
+  
+
 
