@@ -36,7 +36,7 @@ Formado em Processos Gerenciais e no processo de transição de carreira!
           
   </div>
  
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/86698354/204107007-6da0ff1d-afbc-4c4f-8e5b-509e7fced609.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/86698354/204107230-f98dd388-d9d9-44ef-bd72-1a132856a745.gif)
 
   ##
   
