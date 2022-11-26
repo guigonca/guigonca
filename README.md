@@ -7,7 +7,8 @@
  Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL <br> -->
 - 📈 Formado em Processos Gerenciais e no processo de transição de carreira!
 <!-- Apaixonado por tecnologia e focado em dar continuidade na transição para a área <br> -->
-
+- 🕵️‍♂️ Clique aqui para saber um pouco mais sobre mim. 
+<!-- Em construção -->
 ##
 
 <div align="center" style="display: inline_block"><br>
