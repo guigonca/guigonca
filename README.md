@@ -1,19 +1,22 @@
-<h2>Olá, eu sou o Guilherme Gonçalves 🖖🏻</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C0C0C0&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Guilherme+Gonçalves+🖖🏻;)](https://git.io/typing-svg) 
 
-Estudante em programação Web <br>
+##
+
+- 💻 Estudante em programação Web <br>
 <!--💻Estudando Desenvolvimento WEB no SENAC-RJ <br>
  Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL <br> -->
-Formado em Processos Gerenciais e no processo de transição de carreira!
+- 📈 Formado em Processos Gerenciais e no processo de transição de carreira!
+<!-- Apaixonado por tecnologia e focado em dar continuidade na transição para a área <br> -->
 
 ##
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Guilherme-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guilherme-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guilherme-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guilherme-bs" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-  <img align="center" alt="Guilherme-bs" height="55" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
-  <img align="center" alt="Guilherme-bs" height="60" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Guilherme-HTML" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Guilherme-CSS" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Guilherme-Js" height="30" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Guilherme-bs" height="35" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Guilherme-bs" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
+  <img align="center" alt="Guilherme-bs" height="60" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   
 
 
