@@ -7,7 +7,7 @@
  Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL <br> -->
 - 📈 Formado em Processos Gerenciais e no processo de transição de carreira!
 <!-- Apaixonado por tecnologia e focado em dar continuidade na transição para a área <br> -->
-- 🕵️‍♂️ Clique <a href="https://guilherme-portfolioo.000webhostapp.com/" target="blank">aqui</a> para saber um pouco mais sobre mim. (Em construção)
+- 🕵️‍♂️ Clique <a href="https://guilherme-portfolioo.000webhostapp.com/" target="_blank">aqui</a> para saber um pouco mais sobre mim. (Em construção)
 <!-- Em construção -->
 ##
 
